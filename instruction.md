@@ -3,3 +3,6 @@
 
 ## Картина про птиц
 ![Bird](Bird.jpg)
+
+## Картина про мультиков
+![Pretty](cartoon.webp)
